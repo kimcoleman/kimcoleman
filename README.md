@@ -5,7 +5,7 @@
 
 Paid Memberships Pro is designed for premium content sites, clubs/associations, subscription products, newsletters and more! The plugin adds a new revenue source to your site and is flexible enough to fit the needs of almost all online and offline businesses.
 
-[Free Download](https://www.paidmembershipspro.com/documentation/download/) | [Documentation and Premium Support](https://www.paidmembershipspro.com/)
+[Free Download](https://www.paidmembershipspro.com/documentation/download/) | [Documentation](https://www.paidmembershipspro.com/) | [Add Ons](https://www.paidmembershipspro.com/add-ons/) | [Support](https://www.paidmembershipspro.com/support)
 
 ## Memberlite :computer: :art: 
 ### An Easy to Customize Theme for Membership Sites
